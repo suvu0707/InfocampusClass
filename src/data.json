@@ -1,0 +1,241 @@
+{
+  "itemlist": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": "Rs. 300",
+      "qty": 10,
+      "photo": "1.jpg",
+      "details": "Good For Health"
+    },
+    {
+      "name": "Orange",
+      "price": "Rs. 80",
+      "qty": 80,
+      "photo": "3.jpg",
+      "details": "Orange From MP",
+      "id": 3
+    },
+    {
+      "name": "Bananaaaaa",
+      "price": "567",
+      "qty": "34",
+      "photo": "4.jpg",
+      "details": "Good",
+      "id": 7
+    },
+    {
+      "name": "Grapes",
+      "price": "456",
+      "qty": "43",
+      "photo": "3.jpg",
+      "details": "Lovely",
+      "id": 8
+    },
+    {
+      "name": "Pinaappleqw",
+      "price": "68",
+      "qty": "89",
+      "photo": "qwer",
+      "details": "good for",
+      "id": 9
+    }
+  ],
+  "projectlist": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "contact": 7865453432,
+      "email": "ssuvrsdf@gmail.com",
+      "address": "Plot no-567,NVT Villa,Whitefield"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "contact": 8904567843,
+      "email": "jklmnbg@gmail.com",
+      "address": "Plot no-145,Prestige Complex,Marathahali"
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "contact": 7008976543,
+      "email": "qwerrtt@gmail.com",
+      "address": "Plot no-345,Bluewaters Villa,Agra"
+    },
+    {
+      "id": 4,
+      "name": "Python",
+      "contact": 7894536785,
+      "email": "asdfgh@gmail.com",
+      "address": "Plot no-555,Brigrade Tech Park,Mahadevapura"
+    }
+  ],
+  "Project": [
+    {
+      "Projectname": "UI Project",
+      "Contactnumber": 7692023147,
+      "EmailId": "raikomal04@gmail.com",
+      "Projectaddress": "Infosys"
+    },
+    {
+      "Projectname": "PHP Project",
+      "Contactnumber": 7692023147,
+      "EmailId": "raikomal04@gmail.com",
+      "Projectaddress": "Microsoft"
+    },
+    {
+      "Projectname": "React Project",
+      "Contactnumber": 7692023147,
+      "EmailId": "raikomal04@gmail.com",
+      "Projectaddress": "Info campus"
+    },
+    {
+      "Projectname": "Bootstrap Project",
+      "Contactnumber": 7692023147,
+      "EmailId": "raikomal04@gmail.com",
+      "Projectaddress": "Jobspri"
+    }
+  ],
+  "Transportdetails": [
+    {
+      "id": 1,
+      "tnumber": 3,
+      "tsize": "Small",
+      "troot": "NH4",
+      "dname": "Akash Yadav",
+      "dnumber": "7896543456"
+    },
+    {
+      "tnumber": "sfw",
+      "tsize": "",
+      "troot": "",
+      "dname": "",
+      "dnumber": "",
+      "id": 2
+    },
+    {
+      "tnumber": "sfw",
+      "tsize": "",
+      "troot": "",
+      "dname": "",
+      "dnumber": "",
+      "id": 3
+    },
+    {
+      "tnumber": "sfw",
+      "tsize": "",
+      "troot": "",
+      "dname": "",
+      "dnumber": "",
+      "id": 4
+    }
+  ],
+  "userlist": [
+    {
+      "name": "babul",
+      "password": "1234",
+      "email": "babul@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "pumul",
+      "password": "12345",
+      "email": "pumul@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "sssssss",
+      "password": "12345",
+      "email": "ssss@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "pumuel",
+      "password": "12345",
+      "email": "ssss@gmail.com",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "firstName": "we",
+      "lastName": "wewe",
+      "email": "wewe@gmail.com",
+      "id": 1666502021159
+    },
+    {
+      "firstName": "wew",
+      "lastName": "q2e",
+      "email": "sdsd@gmail.com",
+      "id": 1666502638316
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Sydney",
+      "phone": "111-111-1111",
+      "email": "jamal@hotmail.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "beautiful cat"
+      },
+      "favoured": false,
+      "color": "grey",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "name": "Ethan",
+      "phone": "222-222-2222",
+      "email": "ethan@hotmail.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1536590158209-e9d615d525e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "beautiful cat"
+      },
+      "favoured": false,
+      "color": "grey",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Lily",
+      "phone": "333-333-3333",
+      "email": "laith@hotmail.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1606214174585-fe31582dc6ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "beautiful cat"
+      },
+      "favoured": false,
+      "color": "grey",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Felix",
+      "phone": "444-444-4444",
+      "email": "gather@hotmail.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2F0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "beautiful cat"
+      },
+      "favoured": false,
+      "color": "grey",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "Holly",
+      "phone": "555-555-5555",
+      "email": "laith@hotmail.com",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1561948955-570b270e7c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2F0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "beautiful cat"
+      },
+      "favoured": false,
+      "color": "grey",
+      "gender": "female"
+    }
+  ]
+}
