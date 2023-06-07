@@ -1,0 +1,52 @@
+   Setup Project in React::::
+   
+        1.npm install -g create-react-app
+        2.npx create-react-app project1
+
+        Open cmd in any folder as React JS
+        Run above commands in cmd one by one
+
+    =>  After finishing of both commands::
+        change directly=> cd project1
+        Compile and start react servor => npm start
+        After compiling Run in browser
+              =>http://localhost:3000
+
+----------------------------------------------------------------------------------------
+        JSX-  Javascript & XML
+              HTML + JS + XML-Rules
+----------------------------------------------------------------------------------------
+        What is a structure of XML file:
+            Example :: user.xml
+        => Every XML file can have only one parent element.
+           XML tags are case sensitive.
+           XML tags are user defined like we can create our own tag.
+------------------------------------------------------------------------------------------
+        React JSX Rules::(4 rules)
+            1.If inside a component(each xml file) more than a JSX element is required 
+              then the parent element is mandatory.
+                 <div>                    //Element
+                    <h1>Welcome</h1>,
+                    <p>It is from p tag</p>
+                 </div>
+
+            2.If inside a component(each react file) more than a JSX element is required 
+              then the parent element can be user defined also.
+                 <abc>
+                      <h1>Welcome</h1>,
+                      <p>It is from p tag</p>
+                 </abc>
+            
+            3.If inside a component(each react file) more than a JSX element is required 
+              then the parent element can be empty tag<></> also.
+                 <>
+                    <h1>Welcome</h1>,
+                    <p>It is from p tag</p>
+                 </>
+            
+            4.If inside a component(each react file) more than a JSX element is required 
+              then the parent element can be array[] also.
+                 [
+                    <h1>Welcome</h1>,
+                    <p>It is from p tag</p>
+                 ]

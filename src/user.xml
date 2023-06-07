@@ -1,0 +1,16 @@
+<?xml verson="1.0"?>
+<userlist>
+    <user>
+        <name>Ramesh</name>
+        <mobile>8987654323</mobile>
+        <city>Bangalore</city>
+        <age>25 years</age>
+    </user>
+
+      <user>
+        <name>Ganesh</name>
+        <mobile>9898654323</mobile>
+        <city>Delhi</city>
+        <age>33 years</age>
+    </user>
+</userlist>
